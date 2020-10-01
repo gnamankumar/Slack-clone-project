@@ -1,4 +1,4 @@
-# Creating a new Project
+# Creating a New Project for New Learning
 Make sure you have npm and node and also create-reatc-app too
 
 ```
@@ -11,7 +11,7 @@ OR
 git clone https://github.com/nishantagrawal01/Slack-clone-project
 ```
 
-# Starting a project
+# Starting a New project
 
 ```
 npm start
